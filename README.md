@@ -3,7 +3,7 @@
 
 A curated list of humans petting various animals, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision). This list has nothing to do with Computer Vision. It is just about petting animals. Because hoomans like to pet animals. This is just a list of cute relaxing videos of homo sapiens petting other creatures :P 
 
-On a slightly serious note, this probably shows for all the animals listed here (except probably microbes) that they understand affection and associate it with pleasure, so yeah, let's try to be less cruel to them :)
+On a slightly serious note, this probably shows for all the animals listed here (except probably microbes) that they understand affection and associate it with pleasure. So yeah, let's try to be less cruel to them :)
 
 (will be adding to the list with time)
 
