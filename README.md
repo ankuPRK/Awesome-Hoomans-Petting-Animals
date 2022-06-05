@@ -14,7 +14,6 @@ A curated list of humans petting various animals, inspired by [awesome-computer-
 ## Mammals 
 
 * [Brown Bear]()
-
 * [Cat: c/MBVids, Cute Purring Cats Getting Some Happy Petting](https://www.youtube.com/watch?v=sjbrIiemDaQ) 
 * [Cow]()
 * [Dog: c/JuniorWA, me petting my dog for 10 minutes](https://www.youtube.com/watch?v=UJIzJU3_osg&ab_channel=Junior) 
@@ -27,15 +26,15 @@ A curated list of humans petting various animals, inspired by [awesome-computer-
 * [Whale]()
 
 ## Birbs
-* [Chicken]()
-* [Cockatoo]()
-* [Duck]()
-* [Eagle]()
-* [Goose]()
-* [Ostrich]()
-* [Owl]()
-* [Parrot]()
-* [Raven]()
+* [Chicken: c/GypsyChickens, Petting a chicken for 5 minutes](https://www.youtube.com/watch?v=aeerE5Hyn28&ab_channel=GypsyChickens)
+* [Cockatoo: c/RebeccaStout, Cockatoo Bonding And Grooming Owner (relaxing to watch)](https://www.youtube.com/watch?v=93WnoieXu0Q&ab_channel=RebeccaStout)
+* [Duck: c/ducksmakegreatpets, Petting a duck to sleep](https://www.youtube.com/watch?v=OxQuILsDfVs&ab_channel=ducksmakegreatpets)
+* [Eagle: c/EnochWildlifeRescue, Golden Eagle Besties](https://www.youtube.com/watch?v=KSEwlxYTDek&ab_channel=EnochWildlifeRescue)
+* [Goose: c/SaltyGoose, Cuddling and petting these adorable Canada Geese.](https://www.youtube.com/watch?v=DoMQuiMuMy4&ab_channel=SaltyGoose)
+* [Ostrich: c/SandyCarlisle, Petting an Ostrich](https://www.youtube.com/watch?v=aRmFkWSNbYI&ab_channel=SandyCarlisle)
+* [Owl: c/GEN3OWLCHANNEL, He loves owner](https://www.youtube.com/watch?v=Vt_Gi5ocXVo&t=90s&ab_channel=GEN3OWLCHANNEL)
+* [Parrot: c/PicturePerfect, Macaw Snuggling](https://www.youtube.com/watch?v=aJ3YAWUvXds&t=18s&ab_channel=PicturePerfect)
+* [Raven: c/TheDodo, Raven Shakes His Tail Feathers Every Time He Sees Dad | The Dodo](https://www.youtube.com/watch?v=Cf0r4nnjZGM&ab_channel=TheDodo)
 
 
 ## Reptiles
