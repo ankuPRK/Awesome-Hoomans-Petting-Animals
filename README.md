@@ -1,18 +1,17 @@
-# Awesome-Inpainting-Tech 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=1900zyh/Awesome-Image-Inpainting) ![GitHub stars](https://img.shields.io/github/stars/1900zyh/Awesome-Image-Inpainting?color=green)  ![GitHub forks](https://img.shields.io/github/forks/1900zyh/Awesome-Image-Inpainting?color=9cf)
+# Awesome-Videos-of-Humans-petting-Animals 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ankuPRK/Awesome-Hoomans-Petting-Animals) ![GitHub stars](https://img.shields.io/github/stars/ankuPRK/Awesome-Hoomans-Petting-Animals?color=green)
 
-A curated list of inpainting papers and resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
+A curated list of humans petting various animals, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision). This list has nothing to do with Computer Vision. It is just about petting animals. Because hoomans like to pet animals. This is just a list of cute relaxing videos. 
 
 
 ## Contents
- - [Image Inpainting](#image-inpainting)
- - [Video Inpainting](#video-inpainting)
- - [Challenge](#challenge)
-
-![teaser](https://github.com/pathak22/context-encoder/blob/master/images/teaser.jpg "Sample inpainting results on held-out images")
-
-
-## Image Inpainting 
+ - [Mammals](#Mammals)
+ - [Birbs](#Birbs)
+ - [Reptiles](#Reptiles)
+ - [Fish](#Fish)
+ - [Microbes](#Microbes)
+ 
+## Mammals 
 
 ### Classical methods (Non-learning based)
 1. [Image inpainting](https://www.cse.unr.edu/~bebis/CS474/StudentPaperPresentations/imageinpainting.pdf). Bertalmio, M., Sapiro, G., Caselles, V., & Ballester, C. ```In SIGGRAPH 2000```
