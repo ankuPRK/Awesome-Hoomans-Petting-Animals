@@ -3,6 +3,9 @@
 
 A curated list of humans petting various animals, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision). This list has nothing to do with Computer Vision. It is just about petting animals. Because hoomans like to pet animals. This is just a list of cute relaxing videos of homo sapiens petting other creatures :P 
 
+On a slightly serious note, this probably shows for all the animals listed here (except probably microbes) that they understand affection and associate it with pleasure, so yeah, let's try to be less cruel to them :)
+
+(will be adding to the list with time)
 
 ## Contents
  - [Mammals](#Mammals)
@@ -13,17 +16,18 @@ A curated list of humans petting various animals, inspired by [awesome-computer-
 
 ## Mammals 
 
-* [Brown Bear]()
+* [Capybara: c/MartinFaulks, Making Friends with a Capybara](https://www.youtube.com/watch?v=-lqhleCf8R0&ab_channel=MartinFaulks)
 * [Cat: c/MBVids, Cute Purring Cats Getting Some Happy Petting](https://www.youtube.com/watch?v=sjbrIiemDaQ) 
-* [Cow]()
+* [Cheetah: c/mihaifrancu, Cheetah Purring - A Cute Big Cat Videos Compilation](https://www.youtube.com/watch?v=bvS2SlJuLp8&ab_channel=mihaifrancu)
+* [Cow: c/NihongoDekitawithSayaka, Cute Baby Highland Cow || ViralHog](https://www.youtube.com/shorts/_V0yoII8-Hk?&ab_channel=NihongoDekitawithSayaka)
 * [Dog: c/JuniorWA, me petting my dog for 10 minutes](https://www.youtube.com/watch?v=UJIzJU3_osg&ab_channel=Junior) 
-* [Grizzly Bear]()
-* [Lion]()
-* [Orca]()
-* [Panda]()
-* [Tiger]()
-* [Zebra]()
-* [Whale]()
+* [Grizzly Bear: c/bstore, Man Attempts To Hug a Wild Grizzly Bear. What Happens Next Stunned Me.](https://www.youtube.com/watch?v=4-U3cNzb-RE&ab_channel=bstore)
+* [Lion: c/AnimalPlanet, Lions Treat Woman Like the Leader of Their Pride](https://www.youtube.com/watch?v=2f8Hpid8YWA&ab_channel=AnimalPlanet)
+* [Orca: c/SilverSharkAdventures, Orca Connection](https://www.youtube.com/watch?v=tyX9D19qdbg&ab_channel=SilverSharkAdventures)
+* [Panda: c/pandapiaHD, Baby panda thirsty of cuddles, hugs and kisses from nanny](https://www.youtube.com/watch?v=45mV2eFR1jY&ab_channel=pandapiaHD)
+* [Tiger: c/mihaifrancu, Lions, Tigers And Cheetahs Also Like Cuddling - Big Cats Compilation](https://www.youtube.com/watch?v=Z7UwKMmjyoE&ab_channel=mihaifrancu)
+* [Whale: c/DaveMoser, Friendly gray whales](https://www.youtube.com/watch?v=CAJNa2dOLoI&t=7s&ab_channel=DaveMoser)
+* [Zebra: c/LilMissGracieLou, Petting the Zebra](https://www.youtube.com/watch?v=_X7YQjhvs7Y&ab_channel=LilMissGracieLou)
 
 ## Birbs
 * [Chicken: c/GypsyChickens, Petting a chicken for 5 minutes](https://www.youtube.com/watch?v=aeerE5Hyn28&ab_channel=GypsyChickens)
