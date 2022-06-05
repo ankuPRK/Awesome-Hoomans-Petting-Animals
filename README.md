@@ -39,10 +39,10 @@ A curated list of humans petting various animals, inspired by [awesome-computer-
 
 
 ## Reptiles
-* [Alligator]()
-* [Snake]()
-* [Tortoise]()
-* [Turtle]()
+* [Alligator: c/Florida%27sWildest, Casper the friendly alligator boops my face-is he my pet?!](https://www.youtube.com/watch?v=YWkkpluLpcE&ab_channel=Florida%27sWildest)
+* [Snake: c/ViralPress, Man Strokes Tame King Cobra Kept As Pet](https://www.youtube.com/watch?v=sX6DS98BhUk&ab_channel=ViralPress)
+* [Tortoise: c/SmithsonianChannel, Do Tortoises Like Being Touched?](https://www.youtube.com/watch?v=iWYCoBiTnA0&ab_channel=SmithsonianChannel)
+* [Turtle: c/JeffreyPerico, GIZMO... My Common Snapping Turtle Puppy...happy to see me.](https://www.youtube.com/watch?v=XuNa9RpGoCQ&ab_channel=JeffreyPerico)
 
 ## Fish
 * [Eel: c/Merlin007able, Scuba Diver handling Moray Eel, it enjoys it .....................](https://www.youtube.com/watch?v=sVku_ynBU-g&ab_channel=Merlin007able)
