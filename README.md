@@ -1,7 +1,7 @@
 # Awesome-Videos-of-Humans-petting-Animals 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ankuPRK/Awesome-Hoomans-Petting-Animals) ![GitHub stars](https://img.shields.io/github/stars/ankuPRK/Awesome-Hoomans-Petting-Animals?color=green)
 
-A curated list of humans petting various animals, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision). This list has nothing to do with Computer Vision. It is just about petting animals. Because hoomans like to pet animals. This is just a list of cute relaxing videos of homo sapiens petting other creatures :P 
+A curated list of humans petting various animals, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision). This list has nothing to do with Computer Vision though :P. It is just about petting animals. Because hoomans like to pet animals. This is just a list of cute relaxing videos of homo sapiens petting other creatures :P 
 
 On a slightly serious note, this probably shows for all the animals listed here (except probably microbes) that they understand affection and associate it with pleasure. So yeah, let's try to be less cruel to them :)
 
