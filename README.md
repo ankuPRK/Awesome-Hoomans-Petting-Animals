@@ -25,6 +25,7 @@ On a slightly serious note, this probably shows for all the animals listed here 
 * [Lion: c/AnimalPlanet, Lions Treat Woman Like the Leader of Their Pride](https://www.youtube.com/watch?v=2f8Hpid8YWA&ab_channel=AnimalPlanet)
 * [Orca: c/SilverSharkAdventures, Orca Connection](https://www.youtube.com/watch?v=tyX9D19qdbg&ab_channel=SilverSharkAdventures)
 * [Panda: c/pandapiaHD, Baby panda thirsty of cuddles, hugs and kisses from nanny](https://www.youtube.com/watch?v=45mV2eFR1jY&ab_channel=pandapiaHD)
+* [Porcupine: c/zookeeperjawnie, Petting a porcupine](https://www.tiktok.com/@zookeeperjawnie/video/6914786980484173062)
 * [Tiger: c/mihaifrancu, Lions, Tigers And Cheetahs Also Like Cuddling - Big Cats Compilation](https://www.youtube.com/watch?v=Z7UwKMmjyoE&ab_channel=mihaifrancu)
 * [Whale: c/DaveMoser, Friendly gray whales](https://www.youtube.com/watch?v=CAJNa2dOLoI&t=7s&ab_channel=DaveMoser)
 * [Zebra: c/LilMissGracieLou, Petting the Zebra](https://www.youtube.com/watch?v=_X7YQjhvs7Y&ab_channel=LilMissGracieLou)
